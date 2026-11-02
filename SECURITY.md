@@ -24,4 +24,4 @@ Junto runs AI agents and holds credentials on their behalf, so we especially wan
 
 ## Supported versions
 
-Junto is in early development. Only the latest commit on `main` of each repository is supported.
+Junto is in early development. Only the latest Community Edition release is supported.
