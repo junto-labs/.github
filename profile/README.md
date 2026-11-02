@@ -4,7 +4,7 @@
 
 **Junto** is a Kubernetes-native control plane for work that humans and agents share, with a verifiable record of who did what and under whose authority. It's named after Benjamin Franklin's club of makers, who met to improve each other's work.
 
-Junto is built from small, single-purpose components. Each one runs standalone and connects to the others through files, JSON, events and MCP.
+Junto is built from small, single-purpose components. Each one runs standalone and connects to the others through files, JSON, events and agent protocols (MCP today).
 
 | Component | What it does | Status |
 |---|---|---|
@@ -16,4 +16,4 @@ Junto is built from small, single-purpose components. Each one runs standalone a
 | **Intake** | Pulls work items from GitHub, Linear, Jira and support desks | Planned |
 | **junto-spec** | The shared JSON Schema vocabulary | — |
 
-**Start here:** [RFC 0001: the Junto platform](https://github.com/junto-labs/junto/blob/rfc/0001-junto-platform/docs/rfcs/0001-junto-platform.md) · [juntolabs.dev](https://www.juntolabs.dev)
+**Start here:** [Junto Community Edition](https://github.com/junto-labs/junto) (free to use) · [juntolabs.dev](https://www.juntolabs.dev)
